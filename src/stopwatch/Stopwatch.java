@@ -21,7 +21,7 @@ public class Stopwatch {
 	}
 
 	/**
-	 * This me thod is use for start the stopwatch.
+	 * This method is use for start the stopwatch.
 	 */
 	public void start() {
 		if (!isRunning()) {
